@@ -6,4 +6,4 @@ http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=3353&extensio
 #EXT-X-STREAM-INF:BANDWIDTH=6373146,AVERAGE-BANDWIDTH=5191434,RESOLUTION=1020x720,FRAME-RATE=25.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=652910&extension=m3u8
 #EXT-X-STREAM-INF:FRAME-RATE=29.970,BANDWIDTH=4807000,AVERAGE-BANDWIDTH=3167000,RESOLUTION=960x540,CLOSED-CAPTIONS="cc1",SUBTITLES="subs",CODECS="avc1.4d401f,mp4a.40.2"
- http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=9906&deviceMac=00:1A:79:A4:26:A3
+http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=9906&deviceMac=00:1A:79:A4:26:A3
