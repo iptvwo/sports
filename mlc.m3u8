@@ -2,8 +2,8 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:FRAME-RATE=24.120,BANDWIDTH=1441000,AVERAGE-BANDWIDTH=1441000,RESOLUTION=360x480,CLOSED-CAPTIONS="cc1",SUBTITLES="subs",CODECS="avc1.4d4015,mp4a.40.2"
-https://cdn12lhr.tamashaweb.com:8087/YlUHeDQb7a/MLC-abr/live/MLC_480p/chunks.m3u8
+https://stream1.freetv.fun/supersport-cricket-1.ctv
 #EXT-X-STREAM-INF:FRAME-RATE=24.120,BANDWIDTH=1040000,AVERAGE-BANDWIDTH=1040000,RESOLUTION=240x360,CLOSED-CAPTIONS="cc1",SUBTITLES="subs",CODECS="avc1.4d4015,mp4a.40.2"
-https://cdn12lhr.tamashaweb.com:8087/YlUHeDQb7a/MLC-abr/live/MLC_360p/chunks.m3u8
+https://stream1.freetv.fun/supersport-cricket-1.ctv
 #EXT-X-STREAM-INF:FRAME-RATE=24.120,BANDWIDTH=652000,AVERAGE-BANDWIDTH=652000,RESOLUTION=180x240,CLOSED-CAPTIONS="cc1",SUBTITLES="subs",CODECS="avc1.4d401f,mp4a.40.2"
-https://cdn12lhr.tamashaweb.com:8087/YlUHeDQb7a/MLC-abr/live/MLC_240p/chunks.m3u8
+https://stream1.freetv.fun/supersport-cricket-1.ctv
