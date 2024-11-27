@@ -1,0 +1,39 @@
+#EXTM3U
+x-tvg-url="https://whythishome.github.io/epg/guides/dishtv.in_en.xml.gz" 
+x-tvg-url="https://whythishome.github.io/epg/guides/dishtv.in_hi.xml.gz" 
+
+
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://propakistani.pk/wp-content/uploads/2020/11/Sony-Liv.png" group-title="Live Cricket",|SONY LIV (LIVE )
+https://colorsscreen.com/live.php?id=525&extension=.m3u8|Referer=https://colorsscreen.com/
+
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6HfnQl-OB2FO_zyzQ_f6ZzoMEPF2jrP2CyQ&s" group-title="Live Cricket",|Live Cricket
+https://solhtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6HfnQl-OB2FO_zyzQ_f6ZzoMEPF2jrP2CyQ&s" group-title="Live Cricket",|SL VS SA
+https://cdn10lhr.tamashaweb.com:8087/jazzauth/SA-VS-SL-Test-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyNCA5OjI4OjA0IEFNJmhhc2hfdmFsdWU9SUJxVWJNU29vYmIrM2tJNDFzVFU5QT09JnZhbGlkbWludXRlcz0xMA==
+
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6HfnQl-OB2FO_zyzQ_f6ZzoMEPF2jrP2CyQ&s" group-title="Live Cricket",|PK VS ZIM
+https://cdn08khi.tamashaweb.com:8087/jazzauth/PAK-VS-ZIM-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyNCA5OjMwOjExIEFNJmhhc2hfdmFsdWU9bE53V3h6eG1hZlp1eEFEOHZIREdCZz09JnZhbGlkbWludXRlcz0xMA==
+
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6HfnQl-OB2FO_zyzQ_f6ZzoMEPF2jrP2CyQ&s" group-title="Live Cricket",|T10 League
+https://cdn14lhr.tamashaweb.com:8087/jazzauth/Abudhabi-T20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyNCA5OjMxOjE4IEFNJmhhc2hfdmFsdWU9TXc0MFQrZUxlTi8rSVBVajlOaWkyZz09JnZhbGlkbWludXRlcz0xMA==
+
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6HfnQl-OB2FO_zyzQ_f6ZzoMEPF2jrP2CyQ&s" group-title="Live Cricket",|Live Cricket
+https://solhtvhls.wns.live/hls/stream.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8eb0f152c6e429ca7a53f399aadf257:c593c2eeea62742285b99e4d87b1c84a
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllqQTNNemxsT1dVdFpqWmtaQzAwTmpZMExUZ3dOall0WVRBd04ySXlZV0kxTUROaiIsIndtb3BpZCI6MzIsImV4cCI6MTczMzE5MzYxOCwiaWF0IjoxNzMyNTg5NjE4fQ.N6mLWXsfbXhuGdBwzhItOsaGRisTuKO-_o2KKcbW46k"}
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Live Cricket",| Astro Cricket
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8eb0f152c6e429ca7a53f399aadf257:c593c2eeea62742285b99e4d87b1c84a
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qY3hZV0ZtWXpZdFptTXhNaTAwWVRrMkxXSTFNbU10TnpZMk0yVTJaVFZoWldJNSIsIndtb3BpZCI6MzIsImV4cCI6MTczMjgxNTkxMSwiaWF0IjoxNzMyMjExOTExfQ.fm64dw2UXRQsWS-NgJaMLCKMcdvSK6VB5a-6RUkdNZg"}
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Live Cricket",| Sky Cricket
+https://finallystream.podik62652.workers.dev/https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.asa.mpd
+
