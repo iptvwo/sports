@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2096000
+#EXT-X-STREAM-INF:BANDWIDTH=1596000,RESOLUTION=720x540,CODECS="avc1.64001F,mp4a.40.2"
 https://iptv.umadiyajanani.com/crichd.m3u8/?supercricket|Origin="https://stylisheleg4nt.com"&Referer="https://stylisheleg4nt.com/"
-#EXT-X-STREAM-INF:BANDWIDTH=796000
+#EXT-X-STREAM-INF:BANDWIDTH=2096000,RESOLUTION=1280x720,CODECS="avc1.64001F,mp4a.40.2"
 https://cdn1.hotflix-bd.online/s-cricket/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=656000
+#EXT-X-STREAM-INF:BANDWIDTH=3596000,RESOLUTION=1280x720,CODECS="avc1.64001F,mp4a.40.2"
 http://bapatv.live:8080/skysportsfootball/index.m3u8
